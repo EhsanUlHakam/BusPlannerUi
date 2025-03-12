@@ -1,5 +1,3 @@
-# Small World Challenge
-
 In this project Java, Selenium, Maven, and Cucumber are used. The project enables the automation of web application testing using behavior-driven development (BDD) approach.
 
 # Features
